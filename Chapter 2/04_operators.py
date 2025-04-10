@@ -52,10 +52,10 @@ print("F and T is ", False and True);
 print("F and F is ", False and False, "\n");
 
 # Truth table of 'not'
-print("not(T) is", not(True));
-print("not(F) is", not(False));
+print("not(T) is", not(True));      # ~T = F
+print("not(F) is", not(False));     # ~F = T
 
-
+print(True)
 
 
 

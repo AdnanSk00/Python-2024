@@ -6,3 +6,8 @@ print("a")
 print("b")
 print("c", end=" ")
 print("d")
+
+print("Adnan ")
+print("Shaikh")
+print("Adnan", end=" ")
+print("Shaikh")

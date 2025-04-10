@@ -1,6 +1,6 @@
 import pyjokes
 
-# print("Printing Jokes...")
+# print("Printing Jokes...")        # Single line Comment
 
 
 """If I 

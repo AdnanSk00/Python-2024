@@ -8,7 +8,7 @@ def rem(list, word):
 
 
 
-list = ["Zoaib", "Shifan", "Guddu", "Faizan", "an"]
+list = ["Zoaib", "Shifan", "Guddu", "Faizan", "an", "Adnan","fun"]
 
 print(rem(list, "an"))
 

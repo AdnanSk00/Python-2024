@@ -1,6 +1,6 @@
 s = {1, 3, 90, 90, 90, 56, "Zayyan", 0.912, 78}
 
-# print(s, type(s));
+print(s, type(s));
 
 
 # s.add(92)

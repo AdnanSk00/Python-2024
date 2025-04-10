@@ -7,7 +7,7 @@ def greatest(a, b, c):
         return c
 
 a = 3
-b = 1
+b = 10
 c = 8
 
 print(f"{greatest(a, b, c)} is greatest")

@@ -1,5 +1,5 @@
-import pyttsx3
-engine = pyttsx3.init()
+# import pyttsx3
+# engine = pyttsx3.init()
 
 # engine.say('''Twinkle, twinkle, little star,
 print('''Twinkle, twinkle, little star,
@@ -27,4 +27,4 @@ Lights the traveler in the dark,
 Though I know not what you are,
 Twinkle, twinkle, little star.''')
 
-engine.runAndWait()
+# engine.runAndWait()

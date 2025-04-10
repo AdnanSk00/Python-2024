@@ -14,9 +14,9 @@ marks = {
 # marks.update({"Rehan": 91, "Aman": 89})
 print(marks);
 
-# print(marks.get("Rehan"));
-# print(marks["Rehan"]);
-# print(marks.get('Abuzar', '93'))
+print(marks.get("Rehan"));
+print(marks["Rehan"]);
+print(marks.get('Abuzar', '93'))
 
 # print(marks.get("Rehan2"));   # Prints None
 # print(marks["Rehan2"]);       # Returns an error
@@ -32,7 +32,7 @@ print(marks);
 
 keys = ['a', 'b', 'c']
 new_dict = dict.fromkeys(keys, 0)
-# print(new_dict);
+print(new_dict);
 
 # marks.pop('Rehan', '99')
 # print(marks.popitem())

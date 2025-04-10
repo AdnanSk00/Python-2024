@@ -11,12 +11,12 @@ for i in l:
 t = (6, 23, 539, 9032, 110, 00)
 for i in t:
     print(i)
-else:
+else:           # For loop with else
     print("\n") 
 
 
 ## For Loop with Strings :-
 s = "Shaikh"
 for i in s:
-    print(i);
+    print(i,end=" ");
     

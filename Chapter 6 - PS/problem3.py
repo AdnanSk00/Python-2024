@@ -12,3 +12,8 @@ else:
     print("This comment is not a spam");
     
     
+'''
+s1 = {3, 5}
+s2 = {1, 3, 5, 6}
+s2 subset s1 or (s1 in s2)
+'''

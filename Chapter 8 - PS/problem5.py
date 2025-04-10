@@ -8,7 +8,7 @@ for i in range(1, n+1):
 
 def pattern(n):
     if(n == 0):
-        return
+        return      # return - function will stop(Baat khatm, ab jao)
     print("* " * n)
     pattern(n-1)
 

@@ -20,4 +20,4 @@ def factorial(n):
 n = int(input("Enter a number: "))
 # f = factorial(n)
 # print(f"The factoria of {n} is {f}")
-print(f"The factoria of {n} is: {factorial(n)}")
+print(f"The factorial of {n} is: {factorial(n)}")
