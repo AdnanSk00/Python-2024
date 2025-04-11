@@ -12,7 +12,8 @@ t = (6, 23, 539, 9032, 110, 00)
 for i in t:
     print(i)
 else:           # For loop with else
-    print("\n") 
+    # print("\n") 
+    print("") 
 
 
 ## For Loop with Strings :-
