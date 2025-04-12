@@ -15,7 +15,7 @@ emais = []
 # open("filename", "mode of opening(read mode by default)")
 # open("file.txt", "r/w")
 
-f = open("file.txt")    # Open file in read mode
+f = open(r"C:\Users\ADMIN\OneDrive\Desktop\Python 2024\Chapter 9 imp!\file.txt", "r")    # Open file in read mode
 
 data = f.read()         # Read its contents
 
