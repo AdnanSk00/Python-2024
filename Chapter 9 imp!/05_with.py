@@ -11,3 +11,14 @@ with open("file.txt") as f:
     print(f.read())   
 
 # You dont have to explicitly close the file
+
+# -----------------------------------------
+
+# We can now use multiple context managers in a single with statement more cleanly written in Advanced Python 1
+# using the parenthesised context manager
+
+# with (
+# open('file1.txt') as f1,
+# open('file2.txt') as f2
+# ):
+# Process files
